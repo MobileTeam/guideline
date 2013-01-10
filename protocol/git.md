@@ -1,0 +1,1 @@
+This is how to setup project with git
