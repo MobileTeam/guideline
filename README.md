@@ -1,11 +1,10 @@
-
 Guide
 =====
 
 Guide for start a project and getting done together
 
-- [Protocol and Initialize] (http://github.com/MobileTeam/guideline/protocol)
-- [Style](http://github.com/MobileTeam/guideline/style)
+- [Protocol and Initialize] (http://github.com/MobileTeam/guideline/tree/master/protocol)
+- [Style](http://github.com/MobileTeam/guideline/tree/master/style)
 
 
 
