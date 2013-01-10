@@ -21,3 +21,16 @@ http://daringfireball.net/projects/markdown/syntax
 > 
 >     return shell_exec("echo $input | $markdown_script");
 
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+viverra nec, fringilla in, laoreet vitae, risus.
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+Suspendisse id sem consectetuer libero luctus adipiscing.
+
+<p>This is a normal paragraph:</p>
+
+<pre><code>This is a code block.
+</code></pre>
+
+This is [an example](http://example.com/ "Title") inline link.
+
