@@ -39,5 +39,5 @@ Our guides is writing in Markdown Format, if you want to contribute please read
 Credit
 ------
 
-Thoughtbut Guides - https://github.com/thoughtbot/guides
-Diaspora Workflow - https://github.com/diaspora/diaspora/wiki/Git-Workflow
+- Thoughtbut Guides - https://github.com/thoughtbot/guides
+- Diaspora Workflow - https://github.com/diaspora/diaspora/wiki/Git-Workflow
