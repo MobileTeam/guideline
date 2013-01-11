@@ -3,8 +3,8 @@ Guide
 
 Guide for starting a project and getting things done together
 
-- [Protocol and Initialize] (http://github.com/MobileTeam/guideline/tree/master/protocol)
-- [Style](http://github.com/MobileTeam/guideline/tree/master/style)
+- [Workflow, Git](http://github.com/MobileTeam/guideline/tree/master/workflow-git)
+- [Objective-C, Xcode, and iOS Project](http://github.com/MobileTeam/guideline/tree/master/objective-c)
 
 
 
