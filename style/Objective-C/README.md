@@ -3,9 +3,9 @@ Guideline and Style for Create iOS App
 
 A Guide to starting new iOS project and programming well
 
-* [Guide](https://github.com/MobileTeam/guideline/edit/master/style/Objective-C/README.md#guide)
-* [Style](https://github.com/MobileTeam/guideline/edit/master/style/Objective-C/README.md#style)
-* [Best Practice](https://github.com/MobileTeam/guideline/edit/master/style/Objective-C/README.md#best-practice)
+* [Guide](https://github.com/MobileTeam/guideline/tree/master/style/Objective-C#guide)
+* [Style](https://github.com/MobileTeam/guideline/tree/master/style/Objective-C#style)
+* [Best Practice](https://github.com/MobileTeam/guideline/tree/master/style/Objective-C#best-practice)
 
 Guide
 -----
